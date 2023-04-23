@@ -2,15 +2,15 @@
     body {
         margin: 0;
         font-family: 'Prompt', sans-serif;
-        color: white;
-        background: #202731;
+        color: #3d3c3c;
+        background: #ee2e2e;
        }
 
        p {
         font-size: 1.5em;
         max-width: 50%;
         text-align: center;
-        color: #fff;
+        color: #3d3c3c;
       }
  
       h1 {
@@ -24,7 +24,7 @@
 
       h1, h2 {
         margin: 0;
-        color: #fff;
+        color: #3d3c3c;
       }
    
       div.polaroid {
