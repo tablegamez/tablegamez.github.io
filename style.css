@@ -58,3 +58,9 @@
         img {
           border-radius: 50px;
         }
+
+        .container {
+
+            display: flex;
+
+        }
